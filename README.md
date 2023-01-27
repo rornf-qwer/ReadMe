@@ -1,6 +1,8 @@
 # ReadMe
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=앵왱왱왱&fontSize=15)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=120&section=header&text=앵왱왱왱&fontSize=15)
+
+wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
