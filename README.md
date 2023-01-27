@@ -5,7 +5,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=하-ㅁ 바 가&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=하-ㅁ바가&fontSize=30)
 
 
 ![rornf-qwer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rornf-qwer&show_icons=true&theme=tokyonight) <br>
