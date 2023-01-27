@@ -7,11 +7,11 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 
 
 ![rornf-qwer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rornf-qwer&show_icons=true&theme=tokyonight) 
-
+<center>
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=하-ㅁ바가&fontSize=30)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmskwjs)](https://solved.ac/tmskwjs/)
 <img src="http://mazandi.herokuapp.com/api?handle=tmskwjs&theme=dark"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=footer)
-
+</center>
